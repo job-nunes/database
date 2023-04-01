@@ -1,3 +1,5 @@
+/* Realizado no banco fornecido na AWS pelo professor. */
+
 --1º Listar todos os cliente que tem o nome 'ANA'.> Dica: Buscar sobre função Like
 select c.* from 
 	cliente c 
